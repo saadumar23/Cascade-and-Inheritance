@@ -1,0 +1,35 @@
+/* Cascade and Last Rule */
+
+/* *{
+    color: red;
+}
+
+p{
+    color: blue !important;
+}
+
+#kl{
+    color: green;
+}
+
+p i{
+    color: lawngreen;
+}
+
+p b {
+    color: gray;
+} */
+
+/* Inheritance */
+
+body{
+    color: red;
+    border: 1px solid blue;
+    background-color: wheat;
+    padding: 20px;
+}
+
+.kl{
+    border: inherit;
+    padding: inherit;
+}
